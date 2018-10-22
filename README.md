@@ -1,12 +1,14 @@
 ![](http://142.93.126.85/pgl-tool.png)
 
-The Polyglot Tool was created to help you translate your game simply and quickly from a custom WindowEditor with the data saved in a json file. You can add the languages you want as well as the categories and relate to the translations.
+The Polyglot Tool is designed to help you translate your game simply and quickly from a custom WindowEditor with the data saved in a ScriptableObject. You can add the desired languages and categories and relate to the translations.
 
 ## Features
 - Unlimited Languages
 - Possibility of creating categories (facilitate organization)
 - Add translations
 - Integration with TextMesh Pro
+- Integration with the package you want (Use WS_PGT) (Define Symbol is automatically created)
+- Make With <3
 
 ## Getting Started
 
@@ -58,6 +60,8 @@ Select the initial language and you're done =)<br/>
 ## Integration with TextMesh Pro
 ![](http://142.93.126.85/pgt8.png)
 ![](http://142.93.126.85/pgt9.png)
+
+Note: If you set TMPro and the TextMesh Pro package is not actually imported you will receive a series of errors.
 
 Thanks =)
 
