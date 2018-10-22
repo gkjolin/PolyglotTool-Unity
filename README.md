@@ -6,6 +6,7 @@ The Polyglot Tool was created to help you translate your game simply and quickly
 - Unlimited Languages
 - Possibility of creating categories (facilitate organization)
 - Add translations
+- Integration with TextMesh Pro
 
 ## Getting Started
 
