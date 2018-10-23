@@ -8,7 +8,7 @@ The Polyglot Tool is designed to help you translate your game simply and quickly
 - Add translations
 - Integration with TextMesh Pro
 - Integration with the package you want (Use WS_PGT) (Define Symbol is automatically created)
-- Make With <3
+- Made With <3
 
 ## Getting Started
 
